@@ -1,9 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import data from './data'
-import data2 from './data2'
-import girl from './girl.png'
+
 import pic1 from './pic1.jpg'
-import pic2 from './pic2.jpg'
 import pic3 from './pic3.jpg'
 import pic5 from './pic5.png'
 import pic6 from './pic6.png'
